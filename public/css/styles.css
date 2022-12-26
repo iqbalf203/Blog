@@ -39,8 +39,12 @@
     font-weight: bold;
 }
 
-.compose input{
+.compose-area{
     width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline-color: lightblue;
+    
 }
 
 .compose .content{
