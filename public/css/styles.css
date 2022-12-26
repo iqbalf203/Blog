@@ -55,8 +55,13 @@
     font-size: 13px;
     color: white;
     margin-top: 15px;
-    background-color: #0039a6;
+    background-color: #0941aa;
+    opacity: .9;
     padding: 5px 10px;
-    border-radius: 3px;
+    border-radius: 5px;
     border: none;
+}
+
+.compose button:hover{
+    opacity: 1;
 }
